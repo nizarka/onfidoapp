@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "onfido-sdk-ui": "^6.0.0"
+  }
+}
